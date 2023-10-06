@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\Tyuiu.KondrakovAA.Sprint1\Tyuiu.KondrakovAA.Sprint1.Task0.V0\bin\Debug\Tyuiu.KondrakovAA.Sprint1.Task0.V0.exe.config
+C:\Users\User\source\repos\Tyuiu.KondrakovAA.Sprint1\Tyuiu.KondrakovAA.Sprint1.Task0.V0\bin\Debug\Tyuiu.KondrakovAA.Sprint1.Task0.V0.exe
+C:\Users\User\source\repos\Tyuiu.KondrakovAA.Sprint1\Tyuiu.KondrakovAA.Sprint1.Task0.V0\bin\Debug\Tyuiu.KondrakovAA.Sprint1.Task0.V0.pdb
+C:\Users\User\source\repos\Tyuiu.KondrakovAA.Sprint1\Tyuiu.KondrakovAA.Sprint1.Task0.V0\bin\Debug\Tyuiu.KondrakovAA.Sprint1.Task0.V0.Lib.dll
+C:\Users\User\source\repos\Tyuiu.KondrakovAA.Sprint1\Tyuiu.KondrakovAA.Sprint1.Task0.V0\bin\Debug\Tyuiu.KondrakovAA.Sprint1.Task0.V0.Lib.pdb
+C:\Users\User\source\repos\Tyuiu.KondrakovAA.Sprint1\Tyuiu.KondrakovAA.Sprint1.Task0.V0\obj\Debug\Tyuiu.KondrakovAA.Sprint1.Task0.V0.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Tyuiu.KondrakovAA.Sprint1\Tyuiu.KondrakovAA.Sprint1.Task0.V0\obj\Debug\Tyuiu.KondrakovAA.Sprint1.Task0.V0.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Tyuiu.KondrakovAA.Sprint1\Tyuiu.KondrakovAA.Sprint1.Task0.V0\obj\Debug\Tyuiu.KondrakovAA.Sprint1.Task0.V0.csproj.CopyComplete
+C:\Users\User\source\repos\Tyuiu.KondrakovAA.Sprint1\Tyuiu.KondrakovAA.Sprint1.Task0.V0\obj\Debug\Tyuiu.KondrakovAA.Sprint1.Task0.V0.exe
+C:\Users\User\source\repos\Tyuiu.KondrakovAA.Sprint1\Tyuiu.KondrakovAA.Sprint1.Task0.V0\obj\Debug\Tyuiu.KondrakovAA.Sprint1.Task0.V0.pdb
