@@ -1,0 +1,6 @@
+C:\Users\User\source\repos\Tyuiu.KondrakovAA.Sprint1\Tyuiu.KondrakovAA.Sprint1.Task1.V21.Lib\bin\Debug\Tyuiu.KondrakovAA.Sprint1.Task1.V21.Lib.dll
+C:\Users\User\source\repos\Tyuiu.KondrakovAA.Sprint1\Tyuiu.KondrakovAA.Sprint1.Task1.V21.Lib\bin\Debug\Tyuiu.KondrakovAA.Sprint1.Task1.V21.Lib.pdb
+C:\Users\User\source\repos\Tyuiu.KondrakovAA.Sprint1\Tyuiu.KondrakovAA.Sprint1.Task1.V21.Lib\obj\Debug\Tyuiu.KondrakovAA.Sprint1.Task1.V21.Lib.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Tyuiu.KondrakovAA.Sprint1\Tyuiu.KondrakovAA.Sprint1.Task1.V21.Lib\obj\Debug\Tyuiu.KondrakovAA.Sprint1.Task1.V21.Lib.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Tyuiu.KondrakovAA.Sprint1\Tyuiu.KondrakovAA.Sprint1.Task1.V21.Lib\obj\Debug\Tyuiu.KondrakovAA.Sprint1.Task1.V21.Lib.dll
+C:\Users\User\source\repos\Tyuiu.KondrakovAA.Sprint1\Tyuiu.KondrakovAA.Sprint1.Task1.V21.Lib\obj\Debug\Tyuiu.KondrakovAA.Sprint1.Task1.V21.Lib.pdb
