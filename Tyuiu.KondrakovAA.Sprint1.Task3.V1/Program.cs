@@ -14,9 +14,9 @@ namespace Tyuiu.KondrakovAA.Sprint1.Task3.V1
             Console.Title = "Спринт #1 | Выполнил: Кондраков А.А. | СМАРТб-23-1";
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* Спринт #1                                                               *");
-            Console.WriteLine("* Тема: Арифметические операторы в С#                                     *");
+            Console.WriteLine("* Тема: Операторы составного присваивания                                 *");
             Console.WriteLine("* Задание #3                                                              *");
-            Console.WriteLine("* Вариант #1                                                             *");
+            Console.WriteLine("* Вариант #1                                                              *");
             Console.WriteLine("* Выполнил: Кондраков Александр Артемович | СМАРТб-23-1                   *");
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* УСЛОВИЕ:                                                                *");
